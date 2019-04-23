@@ -2,6 +2,9 @@
     "name": "@monorepo/first",
     "version": "1.0.0",
     "main": "index.js",
+    "scripts": {
+      "test": "../../node_modules/.bin/jest --colors"
+    },
     "license": "MIT"
   }
   
